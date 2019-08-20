@@ -1,5 +1,3 @@
-require 'pry'
-
 class CLITimeout::Restaurant
 
     attr_accessor :name, :type, :location, :description, :url
